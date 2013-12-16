@@ -37,3 +37,11 @@ a:hover {
 ul {
 	display: none;
 }
+
+.green {
+	list-style-image: url("cross-green.png");
+}
+
+.red {
+	list-style-image: url("cross-on.png");
+}
